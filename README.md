@@ -13,18 +13,14 @@ note 2
       <td>1</td>
       <td>java</td>
     </tr>
-    
     <tr>
       <td>2</td>
       <td>javascript</td>
     </tr>
-    
     <tr>
       <td>3</td>
       <td>python</td>
     </tr>
-    
-  </table>
-  
-</details>
+    </table>
+  </details>
   
