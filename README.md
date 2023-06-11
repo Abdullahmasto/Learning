@@ -1,6 +1,6 @@
 # Learning
 
-##**Important Nots**
+## ** Important Nots **
 note 1
 note 2
 <details>
@@ -23,6 +23,8 @@ note 2
       <td>3</td>
       <td>python</td>
     </tr>
+    
   </table>
-  </details>
+  
+</details>
   
